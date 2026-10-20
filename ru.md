@@ -14,10 +14,60 @@ Siege / R6 hack, free hack, free cheat, aimbot, wallhack, ESP. MoggyDay trainer 
 
 ## Опции
 
-- Siege / R6 hack
-- aimbot
-- wallhack
-- ESP. MoggyDay trainer +54 for range and custom — not ranked.
+- God Mode (Custom)
+- Infinite Health
+- Edit Health
+- Infinite Ammo
+- No Reload
+- No Recoil
+- Perfect Accuracy
+- Infinite Gadgets
+- No Gadget Cooldown
+- Infinite Drones
+- Infinite Reinforcements
+- Instant Breach
+- Unlock All Operators
+- Unlock All Uniforms (Local)
+- Unlock All Attachments
+- Unlock All Sights
+- Super Damage
+- One Hit Kill
+- Instant Plant
+- Instant Defuse
+- Infinite Round Time
+- Freeze Time / Prep
+- No Friendly Fire
+- Freeze Bots
+- Easy Bots
+- Super Speed
+- Silent Step
+- No Fall Damage
+- No Clip
+- Unlock All Maps
+- Shooting Range Pack
+- Freeze Time
+- Set Game Speed
+- Slow Motion
+- Save Position
+- Load Position
+- Infinite Claymore / Nitro
+- Infinite Breach Charges
+- Infinite Smoke / Stun
+- Infinite Ace / Thermite
+- Infinite Thatcher / Mute
+- Infinite Jager ADS
+- Infinite Bandit Batteries
+- Infinite Rook Armor
+- Unlock All Charms (Local)
+- Reveal Gadgets (Custom)
+- No Destruction Limit
+- Instant Reinforce
+- Give Any Operator
+- Infinite Observation Tools
+- No DBNO
+- Max Armor Rating
+- Unlock All Elites (Local)
+- Custom Match Host Pack
 
 ## Куда жать
 
